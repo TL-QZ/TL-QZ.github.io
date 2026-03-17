@@ -4,10 +4,10 @@
 
 @use "variables" as v;
 
-.navbar {
+#navbar.navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: #11802a;
+  background-color: #11802a !important;
   opacity: 0.95;
 }
 
